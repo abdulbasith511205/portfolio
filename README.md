@@ -1,1 +1,1 @@
-file:///D:/portfolio%20ui%20ux%20-5/index.html
+https://lucky-sfogliatella-bd5c4f.netlify.app/
